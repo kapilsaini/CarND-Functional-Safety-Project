@@ -1,7 +1,13 @@
 # Functional Safety of a Lane Assistance System
 
+### Final submissions can be  accessed [here](./submission/).
+*  [01_SafetyPlan_LaneAssistance_Template.pdf](./submission/01_SafetyPlan_LaneAssistance_Template.pdf)
+*  [02_HazardAnalysisAndRiskAssessment_Template.pdf](./submission/02_HazardAnalysisAndRiskAssessment_Template.pdf)
+*  [03_FunctionalSafetyConcept_LaneAssistance_Template.pdf](./submission/03_FunctionalSafetyConcept_LaneAssistance_Template.pdf)
+*  [04_TechnicalSafetyConcept_LaneAssistance_Template.pdf](./submission/04_TechnicalSafetyConcept_LaneAssistance_Template.pdf)
+*  [05_SoftwareRequirementsAndArchitecture_LaneAssistance_Template.pdf](./submission/05_SoftwareRequirementsAndArchitecture_LaneAssistance_Template.pdf)
 
-
+---
 Your job will be to create functional safety documents based on what you learned in the lessons. These documents are simplified versions of what a functional safety manager would create as part of a safety case. A safety case is a collection of documents proving that a project has made a vehicle safer.
 
 
